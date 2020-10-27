@@ -28,7 +28,7 @@
     "request": "2.87.0",
     "tslib": "1.9.3",
     "url": "0.11.0",
-    "xml-crypto": "0.8.5",
+    "xml-crypto": "2.0.0",
     "xml-encryption": "0.11.2",
     "xml2js": "0.4.19",
     "xmlbuilder": "8.2.2",
